@@ -19,7 +19,7 @@
 
 ###  Studying 
 
-<img src="https://img.shields.io/badge/우아한테크코스_프리코스-2AC1BC?style=for-the-badge" alt="Woowa Tech Course Pre-course" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/우아한테크코스-2AC1BC?style=for-the-badge" alt="Woowa Tech Course Pre-course" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 
 ###  Tools 
 
