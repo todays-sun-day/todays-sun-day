@@ -25,7 +25,7 @@
 
 <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" /> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=todays-sun-day&utm_content=farm">
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=todays-sun-day&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/todays-sun-day"
   width="600"
